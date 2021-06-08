@@ -1,0 +1,12 @@
+normal distributions are the most interesting patterns in data science 
+
+properties of normal distribution
+the mean, median and mode are all equal in normal distribution and they are at the peak
+
+2) symmetrical nature of normal distribution 
+mean divides into 2 equal parts , in y axis (bellcurve) it shows probability of the data 
+
+3) 68% of data lies between the first standard deviation (between mean - sd to mean + sd)
+95% of data the second standard deviation (mean - 2sd to mean + 2sd)
+
+99% of data lies between the third standard deviation (between mean - 3sd to mean + 3sd)
